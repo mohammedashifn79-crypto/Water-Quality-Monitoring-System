@@ -37,4 +37,4 @@ A real-time embedded system developed using Arduino Nano to monitor water qualit
 
 ## Author
 Mohammed Ashif  
-Embedded Systems Trainee
+technical intern
